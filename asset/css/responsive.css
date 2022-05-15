@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px)
+{
+    .line{
+        width: 30px;
+        height: 3px;
+        margin: 5px;
+        background: white;
+    }
+
+    #nav {
+        position: relative;
+    }
+    
+}
