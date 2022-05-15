@@ -1,5 +1,4 @@
-@media screen and (max-width: 1000px)
-{
+@media screen and (max-width: 1000px) {
     .line{
         width: 30px;
         height: 3px;
@@ -8,7 +7,6 @@
     }
 
     #nav {
-        position: relative;
+        visibility: hidden;
     }
-    
 }
