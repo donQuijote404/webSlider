@@ -107,6 +107,20 @@ html {
     transition: visibility 0s, opacity 0.3s linear;
 }
 
+/* responsive */
+@media screen and (max-width: 1000px) {
+    .line{
+        width: 30px;
+        height: 3px;
+        margin: 5px;
+        background: white;
+    }
+
+    #nav {
+        visibility: hidden;
+    }
+}
+
 /* slider */
 /* content */
 /* footer */
